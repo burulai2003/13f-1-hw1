@@ -1,0 +1,32 @@
+#form {
+    border: 1px solid grey;
+}
+
+form {
+    width: 400px;
+    margin: 200px auto;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+input[type=email] {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+button {
+    border: 2px solid black;
+    padding: 10px;
+
+    padding-right: 10px;
+}
+
+#para {
+    color: red;
+    display: none;
+}
